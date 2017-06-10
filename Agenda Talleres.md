@@ -1,6 +1,6 @@
 # Pauta para Expositores de Talleres Intensivos                                                                        
                   
-Convenios con Universidades e Intitutos :
+Convenios con Universidades e Institutos :
 
      1. Universidad Andrés Bello
      2. Instituto de Ciencias Tecnológicas CIISA
